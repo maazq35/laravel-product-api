@@ -102,4 +102,29 @@ Add to Cart (POST /api/cart/1)
   "quantity": 2
 }
 
+Register (/api/register)
+
+Login (/api/login)
+
+Get Products (/api/products)
+
+Get Single Product (/api/products/{id})
+
+Create Product (with multiple images upload)
+
+Update Product
+
+Delete Product
+
+View Cart
+
+Add to Cart
+
+Remove from Cart
+
+It will also have:
+
+A collection variable for base_url (http://127.0.0.1:8000)
+
+Automatic Bearer Token usage after login (Postman script to set token)
 
