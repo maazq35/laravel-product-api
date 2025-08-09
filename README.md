@@ -96,7 +96,7 @@ json
 }
 Add to Cart (POST /api/cart/1)
 
-json
+
 
 {
   "quantity": 2
